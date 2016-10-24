@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "types": [ "node" ],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    //"rootDir": "src",
+    //"outDir": "dist",
+    "forceConsistentCasingInFileNames":  true
+  }
+}
